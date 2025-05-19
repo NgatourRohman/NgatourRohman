@@ -3,6 +3,7 @@
 I'm Ngatour Rohman, an enthusiastic learner and aspiring Mobile Developer from Indonesia.
 
 🎓 Currently in my 8th semester at Indraprasta PGRI University, majoring in Informatics Engineering.
+
 📱 I’ve deepened my skills in Android Development (Kotlin) through the Bangkit Academy 2023 program by Google, GoTo, and Traveloka, as part of Kampus Merdeka.
 💡 Passionate about building user-friendly mobile applications and exploring the world of UI/UX design.
 
