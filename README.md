@@ -1,14 +1,14 @@
-# Hi Everyone! 
+# 👋 Hi, Everyone!
 
-Greetings! I am **Ngatour Rohman**.\
-Currently, I am studying at **Indraprasta PGRI University** majoring in **Informatics Engineering**.\
-Saya seorang **Mobile Developer** di [Dicoding.
+I'm Ngatour Rohman, an enthusiastic learner and aspiring Mobile Developer from Indonesia.
 
-I'm currently studying to be a mobile developer through a government program, namely the **Kampus Merdeka**.  
+🎓 Currently in my 8th semester at Indraprasta PGRI University, majoring in Informatics Engineering.
+📱 I’ve deepened my skills in Android Development (Kotlin) through the Bangkit Academy 2023 program by Google, GoTo, and Traveloka, as part of Kampus Merdeka.
+💡 Passionate about building user-friendly mobile applications and exploring the world of UI/UX design.
 
-In a rapidly evolving technological landscape, I am committed to honing my abilities as a Mobile Developer, ensuring that I stay ahead in crafting innovative and user-centric solutions. Through a potent blend of academic pursuits and hands-on experiences, I am carving a path to contribute meaningfully to the digital revolution.
+🌱 Continuously learning and growing — blending academic experience with real-world projects to create meaningful digital solutions.
 
-If you want to get to know me, please follow my [Linkedin](https://www.linkedin.com/in/ngatour-rohman/) account.
+🔗 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/ngatour-rohman/)!
 
 <p align="left">
 <a href="https://github.com/NgatourRohman">
