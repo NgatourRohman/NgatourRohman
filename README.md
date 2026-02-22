@@ -1,14 +1,24 @@
-# 👋 Hi, Everyone!
+# 👋 Hi, I'm Ngatour Rohman!
 
-I'm Ngatour Rohman, an enthusiastic learner and aspiring Mobile Developer from Indonesia.
+💻 Informatics Engineering Graduate from Universitas Indraprasta PGRI  
+🚀 Bangkit Academy 2023 – Mobile Development Cohort  
+🎯 Fullstack Developer (React) | Mobile Enthusiast  
 
-🎓 Currently in my 8th semester at Indraprasta PGRI University, majoring in Informatics Engineering.  
-📱 I’ve deepened my skills in Android Development (Kotlin) through the Bangkit Academy 2023 program by Google, GoTo, and Traveloka, as part of Kampus Merdeka.  
-💡 Passionate about building user-friendly mobile applications and exploring the world of UI/UX design.
+I am an enthusiastic learner with a strong interest in web and mobile development.  
+My background includes Android Development (Kotlin), and I am currently focusing on building scalable web applications using modern JavaScript ecosystems.
 
-🌱 Continuously learning and growing — blending academic experience with real-world projects to create meaningful digital solutions.
+## 🛠 Tech Stack
+- Frontend: React, JavaScript, HTML, CSS  
+- Mobile: Kotlin (Android)  
+- Backend: Node.js  
+- Database: SQL  
+- Tools: Git, GitHub, Figma  
 
-🔗 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/ngatour-rohman/)!
+## 🌱 Current Focus
+- Deepening Fullstack Development (React & Backend integration)  
+- Improving code quality and software architecture  
+
+🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ngatour-rohman/)
 
 <p align="left">
 <a href="https://github.com/NgatourRohman">
