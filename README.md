@@ -29,7 +29,7 @@ My background includes Android Development (Kotlin), and I am currently focusing
 
 <p align="left">
   <a href="https://github.com/NgatourRohman">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NgatourRohman&bg_color=050F2C&color=5AA3E4&line=5AA3E4&point=FFFFFF&area=true&area_color=5AA3E4&hide_border=false&border_radius=4.5" alt="GitHub Activity Graph" width="79%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NgatourRohman&bg_color=050F2C&color=5AA3E4&line=5AA3E4&point=FFFFFF&area=true&area_color=5AA3E4&hide_border=false&border_radius=4.5" alt="GitHub Activity Graph" width="90%"/>
   </a>
 </p>
 
