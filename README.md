@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ngatour Rohman!
+# 👋 Hi, I'm Arthur!
 
 💻 Informatics Engineering Graduate from Universitas Indraprasta PGRI  
 🚀 Bangkit Academy 2023 – Mobile Development Cohort  
